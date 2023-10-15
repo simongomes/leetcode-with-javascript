@@ -4,12 +4,12 @@ Leetcode Problem Solving Using JavaScript
 
 ### Problems
 
-- [_1. Two Sum_](https://leetcode.com/problems/two-sum/description/)
-- [_9. Palindrome Number_](https://leetcode.com/problems/palindrome-number/description/)
-- [_53. Maximum Subarray_](https://leetcode.com/problems/maximum-subarray/description/)
-- [_98. Validate Binary Search Tree_](https://leetcode.com/problems/validate-binary-search-tree/description/)
-- [_226. Invert Binary Tree_](https://leetcode.com/problems/invert-binary-tree/description/)
-- [_1268. Search Suggestions System_](https://leetcode.com/problems/search-suggestions-system/description/)
-- [_1324. Print Words Vertically_](https://leetcode.com/problems/print-words-vertically/description/)
-- [_1662. Check If Two String Arrays are Equivalent_](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
-- [_1832. Check if the Sentence Is Pangram_](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+- [_1. Two Sum_](https://leetcode.com/problems/two-sum/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_9. Palindrome Number_](https://leetcode.com/problems/palindrome-number/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_53. Maximum Subarray_](https://leetcode.com/problems/maximum-subarray/description/) - <span style="color:#fac31d">_Medium_</span>
+- [_98. Validate Binary Search Tree_](https://leetcode.com/problems/validate-binary-search-tree/description/) - <span style="color:#fac31d">_Medium_</span>
+- [_226. Invert Binary Tree_](https://leetcode.com/problems/invert-binary-tree/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_1268. Search Suggestions System_](https://leetcode.com/problems/search-suggestions-system/description/) - <span style="color:#fac31d">_Medium_</span>
+- [_1324. Print Words Vertically_](https://leetcode.com/problems/print-words-vertically/description/) - <span style="color:#fac31d">_Medium_</span>
+- [_1662. Check If Two String Arrays are Equivalent_](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_1832. Check if the Sentence Is Pangram_](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) - <span style="color:#46c6c2">_Easy_</span>
