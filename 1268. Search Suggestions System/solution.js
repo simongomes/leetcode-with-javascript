@@ -1,13 +1,29 @@
-const products = ["mobile", "mouse", "moneypot", "monitor", "mousepad"];
-const searchWord = "mouse";
-
-const suggestedProducts = function (products, searchWord) {
+var suggestedProducts = function (products, searchWord) {
+  if (!searchWord) return [];
   const sortedProducts = products.sort();
   const result = [];
-  for (let i = 0; i < searchWord.length - 1; i++) {
+  let start = 0;
+  let end = products.length - 1;
+  for (let i = 1; i <= searchWord.length; i++) {
     const term = searchWord.substring(0, i);
-    console.log(term, i);
-  }
-};
+    while (start < end) {
+      if (sortedProducts[start].startsWith(term)) break;
+      start++;
+    }
 
-suggestedProducts(products, searchWord);
+    while (end > start) {
+      if (sortedProducts[end].startsWith(term)) break;
+      end--;
+    }
+    if (end - start > 2) {
+      result.push(sortedProducts.slice(start, start + 3));
+    } else {
+      result.push(
+        sortedProducts
+          .slice(start, end + 1)
+          .filter((product) => product.includes(term))
+      );
+    }
+  }
+  return result;
+};
