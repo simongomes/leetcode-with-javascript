@@ -9,6 +9,7 @@ Leetcode Problem Solving Using JavaScript
 - [_53. Maximum Subarray_](https://leetcode.com/problems/maximum-subarray/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_98. Validate Binary Search Tree_](https://leetcode.com/problems/validate-binary-search-tree/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_226. Invert Binary Tree_](https://leetcode.com/problems/invert-binary-tree/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_1252. Cells with Odd Values in a Matrix_](https://leetcode.com/problems/day-of-the-year/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_1268. Search Suggestions System_](https://leetcode.com/problems/search-suggestions-system/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_1324. Print Words Vertically_](https://leetcode.com/problems/print-words-vertically/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_1662. Check If Two String Arrays are Equivalent_](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) - <span style="color:#46c6c2">_Easy_</span>
