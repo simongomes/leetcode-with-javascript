@@ -7,6 +7,7 @@ Leetcode Problem Solving Using JavaScript
 - [_1. Two Sum_](https://leetcode.com/problems/two-sum/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_9. Palindrome Number_](https://leetcode.com/problems/palindrome-number/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_53. Maximum Subarray_](https://leetcode.com/problems/maximum-subarray/description/) - <span style="color:#fac31d">_Medium_</span>
+- [_75. Sort Colors_](https://leetcode.com/problems/sort-colors/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_98. Validate Binary Search Tree_](https://leetcode.com/problems/validate-binary-search-tree/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_226. Invert Binary Tree_](https://leetcode.com/problems/invert-binary-tree/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_1252. Cells with Odd Values in a Matrix_](https://leetcode.com/problems/day-of-the-year/description/) - <span style="color:#46c6c2">_Easy_</span>
