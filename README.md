@@ -5,6 +5,7 @@ Leetcode Problem Solving Using JavaScript
 ### Problems
 
 - [_1. Two Sum_](https://leetcode.com/problems/two-sum/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_2. Add Two Numbers_](https://leetcode.com/problems/add-two-numbers/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_9. Palindrome Number_](https://leetcode.com/problems/palindrome-number/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_53. Maximum Subarray_](https://leetcode.com/problems/maximum-subarray/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_75. Sort Colors_](https://leetcode.com/problems/sort-colors/description/) - <span style="color:#fac31d">_Medium_</span>
