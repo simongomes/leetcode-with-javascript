@@ -1,3 +1,9 @@
+// https://leetcode.com/problems/day-of-the-year/description/
+
+/**
+ * THIS SOLUTION IS NOT WORKING
+ */
+
 /**
  * @param {string} date
  * @return {number}
@@ -10,8 +16,5 @@ var dayOfYear = function (date) {
     dateArray[1] * 30 +
     extraDays.slice(0, dateArray[1]).reduce((a, b) => a + b, 0);
 
-  console.log(dateArray[1]);
   return days;
 };
-
-console.log(dayOfYear("2019-01-09"));
