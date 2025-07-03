@@ -12,6 +12,7 @@ Leetcode Problem Solving Using JavaScript
 - [_75. Sort Colors_](https://leetcode.com/problems/sort-colors/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_98. Validate Binary Search Tree_](https://leetcode.com/problems/validate-binary-search-tree/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_226. Invert Binary Tree_](https://leetcode.com/problems/invert-binary-tree/description/) - <span style="color:#46c6c2">_Easy_</span>
+- [_344. Reverse String_](https://leetcode.com/problems/reverse-string/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_1252. Cells with Odd Values in a Matrix_](https://leetcode.com/problems/day-of-the-year/description/) - <span style="color:#46c6c2">_Easy_</span>
 - [_1268. Search Suggestions System_](https://leetcode.com/problems/search-suggestions-system/description/) - <span style="color:#fac31d">_Medium_</span>
 - [_1324. Print Words Vertically_](https://leetcode.com/problems/print-words-vertically/description/) - <span style="color:#fac31d">_Medium_</span>
